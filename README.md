@@ -1,6 +1,6 @@
 
 <h1 align="center">Welcome to Plasmified's profile !</h1>
-<h3 align="center">Networking/Cybersecurity addict.</h3>
+<h3 align="center">Networking/Cybersecurity addict 👽</h3>
 
 - 🔭 I’m currently working on **Python server for AS3 client**
 
